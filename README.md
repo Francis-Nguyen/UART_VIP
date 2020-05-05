@@ -8,6 +8,10 @@ This project is create UART VIP
 Reference document:
 URL:
 
+# Note
+1. The value of parity bit is include itself
+2. UART clock is 8MHz recommended 
+
 # Simulation run
 1. ./setup_proj
 2. cd sim
